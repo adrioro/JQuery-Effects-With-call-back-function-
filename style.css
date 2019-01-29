@@ -18,6 +18,7 @@ h1{
 }
 .block2{
   width: 200px;
+  display:none;
 }
 #blockId, #blockId1, #blockId2{
   background-color: rgb(171, 164, 230);

@@ -9,3 +9,9 @@ $("#blockId1").click(function () {
         alert("Finished sliding up.");
     });
 });
+
+$("#blockId2").click(function () {
+    $(".block2").slideDown(1500, function () {
+        alert("Finished sliding down.");
+    });
+});
