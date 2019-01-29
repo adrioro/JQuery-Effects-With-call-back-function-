@@ -6,4 +6,13 @@
   border: 3px solid rgb(81, 8, 120);
   padding: 12px;
   width: 450px;
+  margin-bottom: 30px;
+  margin:auto;
+  text-align: center;
+}
+#blockId{
+  background-color: rgb(171, 164, 230);
+  border: 3px solid rgb(81, 8, 120);
+  padding: 12px;
+  margin:auto;
 }
