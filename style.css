@@ -1,3 +1,6 @@
+h1{
+  text-align: center;
+}
 .block{
   font-family: sans-serif;
   font-size: 16px;
@@ -6,7 +9,6 @@
   border: 3px solid rgb(81, 8, 120);
   padding: 12px;
   width: 450px;
-  margin-bottom: 30px;
   margin:auto;
   text-align: center;
 }
@@ -15,4 +17,9 @@
   border: 3px solid rgb(81, 8, 120);
   padding: 12px;
   margin:auto;
+}
+
+.buttonContainer{
+  text-align: center;
+  margin-top: 12px;
 }
